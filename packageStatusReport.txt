@@ -1,0 +1,11 @@
+Dual axis bar-line - Month YY 2
+  Interactivity for this object is limited for the following reasons:
+    * This object uses a join.
+
+Dual axis bar-line - Month YY 1
+  Interactivity for this object is limited for the following reasons:
+    * This object uses a join.
+
+Dual axis bar-line - Month YY 3
+  Interactivity for this object is limited for the following reasons:
+    * This object uses a join.
